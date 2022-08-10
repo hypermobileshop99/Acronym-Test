@@ -1,0 +1,138 @@
+[
+    {
+        "sf": "ASAP",
+        "lfs": [
+            {
+                "lf": "Assaulted Staff Action Program",
+                "freq": 38,
+                "since": 1991,
+                "vars": [
+                    {
+                        "lf": "Assaulted Staff Action Program",
+                        "freq": 37,
+                        "since": 1991
+                    },
+                    {
+                        "lf": "assaulted staff action program",
+                        "freq": 1,
+                        "since": 2000
+                    }
+                ]
+            },
+            {
+                "lf": "atypical small acinar proliferation",
+                "freq": 22,
+                "since": 1997,
+                "vars": [
+                    {
+                        "lf": "atypical small acinar proliferation",
+                        "freq": 17,
+                        "since": 1997
+                    },
+                    {
+                        "lf": "Atypical small acinar proliferation",
+                        "freq": 2,
+                        "since": 2000
+                    },
+                    {
+                        "lf": "Atypical Small Acinar Proliferation",
+                        "freq": 2,
+                        "since": 2006
+                    },
+                    {
+                        "lf": "atypical small acinar proliferations",
+                        "freq": 1,
+                        "since": 1999
+                    }
+                ]
+            },
+            {
+                "lf": "Antioxidant Supplementation in Atherosclerosis Prevention",
+                "freq": 9,
+                "since": 1998,
+                "vars": [
+                    {
+                        "lf": "Antioxidant Supplementation in Atherosclerosis Prevention",
+                        "freq": 9,
+                        "since": 1998
+                    }
+                ]
+            },
+            {
+                "lf": "arbitrary signatures from amplification profiles",
+                "freq": 3,
+                "since": 1996,
+                "vars": [
+                    {
+                        "lf": "arbitrary signatures from amplification profiles",
+                        "freq": 3,
+                        "since": 1996
+                    }
+                ]
+            },
+            {
+                "lf": "L-ascorbic acid-2-phosphate",
+                "freq": 3,
+                "since": 1997,
+                "vars": [
+                    {
+                        "lf": "L-ascorbic acid-2-phosphate",
+                        "freq": 3,
+                        "since": 1997
+                    }
+                ]
+            },
+            {
+                "lf": "The Avoid Stroke as Soon as Possible",
+                "freq": 3,
+                "since": 2002,
+                "vars": [
+                    {
+                        "lf": "The Avoid Stroke as Soon as Possible",
+                        "freq": 3,
+                        "since": 2002
+                    }
+                ]
+            },
+            {
+                "lf": "apoptosis and splicing associated protein",
+                "freq": 3,
+                "since": 2003,
+                "vars": [
+                    {
+                        "lf": "apoptosis and splicing associated protein",
+                        "freq": 1,
+                        "since": 2005
+                    },
+                    {
+                        "lf": "apoptosis and splicing-associated protein",
+                        "freq": 1,
+                        "since": 2006
+                    },
+                    {
+                        "lf": "apoptosis- and splicing-associated protein",
+                        "freq": 1,
+                        "since": 2003
+                    }
+                ]
+            },
+            {
+                "lf": "Automated Speech-Recognition Anatomic Pathology",
+                "freq": 2,
+                "since": 1994,
+                "vars": [
+                    {
+                        "lf": "Automated Speech-recognition Anatomic Pathology",
+                        "freq": 1,
+                        "since": 1994
+                    },
+                    {
+                        "lf": "Automated Speech-Recognition Anatomic Pathology",
+                        "freq": 1,
+                        "since": 1994
+                    }
+                ]
+            }
+        ]
+    }
+]
